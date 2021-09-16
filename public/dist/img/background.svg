@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="809" viewBox="0 0 460 809">
+    <g fill="none" fill-rule="evenodd" opacity=".092">
+        <circle cx="230" cy="293" r="230" fill="#FF9B21"/>
+        <circle cx="370" cy="768" r="41" fill="#2B44FF"/>
+        <path fill="#2B44FF" d="M192 0l49 49-49 49-49-49z"/>
+        <path fill="#FF9B21" d="M56 690l24 24-24 24-24-24z"/>
+        <path fill="#2026A2" d="M403 63l12 12-12 12-12-12z"/>
+    </g>
+</svg>
